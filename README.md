@@ -23,3 +23,10 @@ https://swf.com.tw/?p=941
 
 # Search Results for: Mifare RFID-RC522模組實驗（四）
 https://swf.com.tw/?s=Mifare+RFID-RC522%E6%A8%A1%E7%B5%84%E5%AF%A6%E9%A9%97%EF%BC%88%E5%9B%9B%EF%BC%89
+
+# 藍芽模組
+https://swf.com.tw/?p=693
+https://swf.com.tw/?p=705
+https://swf.com.tw/?p=712
+
+https://blog.csdn.net/acktomas/article/details/102663738
