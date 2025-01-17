@@ -1,6 +1,6 @@
 # C++ Learn & Reference
 cplusplus.com - The C++ Resources Network
-icon-default.png?t=O83Ahttps://legacy.cplusplus.com/
+https://legacy.cplusplus.com/
 
 # Arduino-Program
 
