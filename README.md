@@ -36,4 +36,7 @@ https://swf.com.tw/?p=712
 https://blog.csdn.net/acktomas/article/details/102663738
 
 # ESP-01 通訊網卡
+Reference:
 https://drive.google.com/drive/folders/1QOE79MYtZA7qYk5tICz1A6HpbBzoC-Rg?usp=drive_link
+
+https://www.ithome.com.tw/tech/47085
