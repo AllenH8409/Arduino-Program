@@ -40,3 +40,5 @@ Reference:
 https://drive.google.com/drive/folders/1QOE79MYtZA7qYk5tICz1A6HpbBzoC-Rg?usp=drive_link
 
 https://www.ithome.com.tw/tech/47085
+
+https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/AT_Command_Set/index.html
